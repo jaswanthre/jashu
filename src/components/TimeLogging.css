@@ -1,0 +1,23 @@
+
+  .time-logging form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .time-logging label {
+    margin-top: 10px;
+  }
+  
+  .time-logging input,
+  .time-logging textarea {
+    margin-top: 5px;
+    padding: 8px;
+    font-size: 14px;
+  }
+  
+  .time-logging button {
+    margin-top: 20px;
+    padding: 10px 15px;
+    font-size: 16px;
+  }
+  

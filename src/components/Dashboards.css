@@ -1,0 +1,31 @@
+.time-logging {
+    flex: 1;
+  }
+  
+  .summary {
+    flex: 1;
+  }
+  
+  .recent-logs {
+    flex: 2;
+  }
+  
+  table {
+ 
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 8px;
+    border: 1px solid #ddd;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+.dashboard{
+  padding-left: 250px;
+}
+  
