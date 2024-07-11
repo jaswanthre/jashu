@@ -35,7 +35,7 @@ function Dashboard() {
                                 </Link>
                             </li>
                             <li>
-                                <Link to="projects" className="nav-link px-0 align-middle text-white">
+                                <Link to="project" className="nav-link px-0 align-middle text-white">
                                     <span className="ms-1 d-none d-sm-inline">Projects</span>
                                 </Link>
                             </li>
